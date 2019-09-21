@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PraktinisDarbas2</string>
+
+    <string-array name="choice">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
